@@ -7,8 +7,8 @@
 The Toxic heap is a polluted Nether biome where the terrain turned green, and yellow near lava. It is believed that this was caused by the Nether reactor that can be found here...
 
 **Linked Structures:**
-- [Nether Reactor](netherreactor)
-- [Pipelines](pipelines)
+- [Nether Reactor](https://officiallysp.net/pokeywiki/Nether_Structures/netherreactor.html)
+- [Pipelines](https://officiallysp.net/pokeywiki/Nether_Structures/pipeline.html)
 - Nether Fortress
 
 **Mobs:**

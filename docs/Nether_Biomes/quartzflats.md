@@ -7,9 +7,9 @@
 The Quartz flats are mirage biomes full of quartz, floating on the lava seas. This biome, considered cold even for the Nether, are the home of Ghasts, who seem to thrive in these temperatures and open lands, although they are not the only inhabitants of the biome. Abandoned towers and sometimes a Quartz kitchen can be found around the lava seas, full of Skeletons, unafraid to fall in the lava. A massive structure, the Sanctum, can also be found here, home of strong Pillagers that managed to get into the Nether... 
 
 **Linked Structures:**
-- [Sanctum](sanctum)
-- [Abandoned Tower](abandonedtower)
-- [Quartz Kitchen](quartzkitchen)
+- [Sanctum](https://officiallysp.net/pokeywiki/Nether_Structures/sanctum.html)
+- [Abandoned Tower](https://officiallysp.net/pokeywiki/Nether_Structures/abandonedtower.html)
+- [Quartz Kitchen](https://officiallysp.net/pokeywiki/Nether_Structures/quartzkitchen.html)
 
 **Mobs:**
 - Ghast

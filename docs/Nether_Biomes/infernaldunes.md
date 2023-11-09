@@ -7,7 +7,7 @@
 The Infernal dunes are blazing hot biomes with red sand and sandstone all around, and red roots hanging from the ceiling. This almost open caves, with gigantic red pillars hides the Infernal altar, a temple with many secrets... 
 
 **Linked Structures:**
-- [Infernal Altar](infernalaltar)
+- [Infernal Altar](https://officiallysp.net/pokeywiki/Nether_Structures/infernalaltar.html)
 - Nether Fortress
 
 **Mobs:**

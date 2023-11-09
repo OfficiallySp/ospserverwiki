@@ -7,7 +7,7 @@
 The Volcanic deltas are variant biomes of the basalt deltas with more lava, Magma, Blackstone, and terrain shaping resembling volcanoes all around. 
 
 **Linked Structures:**
-- [Nether Reactor](netherreactor)
+- [Nether Reactor](https://officiallysp.net/pokeywiki/Nether_Structures/netherreactor.html)
 
 **Mobs:**
 - Ghast
