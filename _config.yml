@@ -1,0 +1,13 @@
+title: Pokeymoley Server Wiki
+description: Documentation for custom content found on the Pokeymoley Server
+remote_theme: carlosperate/jekyll-theme-rtd
+
+# Theme settings:
+site_author: OfficiallySp
+repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+edit_on_github: false
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: both
+search_enabled: true
+hljs_style: github-gist
