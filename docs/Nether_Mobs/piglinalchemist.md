@@ -1,11 +1,11 @@
 # Piglin alchemist
 ![img](https://static.miraheze.org/stardustlabswiki/a/a4/Piglin_alchemist.png)
 ## Base mob
-- **Health points**: 40 (20 hearts)
-- **Armor**: 23 (11.5 armor points)
-- **Spawn**: [Forbidden castle](https://officiallysp.net/pokeywiki/Nether_Structures/forbiddencastle.html).
-- **Behavior**: Hostile
-- **Attack strength**:
+- Health points: 40 (20 hearts)
+- Armor: 23 (11.5 armor points)
+- Spawn: [Forbidden castle](https://officiallysp.net/pokeywiki/Nether_Structures/forbiddencastle.html).
+- Behavior: Hostile
+- Attack strength:
   - Easy: 3 hearts
   - Normal: 5 hearts
   - Hard: 7 hearts
@@ -21,17 +21,17 @@ Depending on its status, the Piglin alchemist can drink potions. When low on hea
 The Piglin alchemist can be found in multiple rooms of the [Forbidden castle](https://officiallysp.net/pokeywiki/Nether_Structures/forbiddencastle.html).
 
 ## Loot
-- **Redstone**: 25% chance, 0-2 amount
-- **Sugar**: 25% chance, 0-2 amount
-- **Fermented spider eye**: 25% chance, 0-2 amount
-- **Blaze powder**: 25% chance, 0-2 amount
-- **Potion of Fire resistance**: 12.5% chance, amount 1
-- **Potion of Regeneration**: 12.5% chance, amount 1
-- **Potion of Healing II**: 12.5% chance, amount 1
-- **Splash potion of Slowness**: 12.5% chance, amount 1
-- **Splash potion of Weakness**: 12.5% chance, amount 1
-- **Splash potion of Harming II**: 12.5% chance, amount 1
-- **Splash potion of Poison**: 12.5% chance, amount 1
-- **Miner's ale**: 4.16% chance, amount 1
-- **Suspicious brew**: 4.16% chance, amount 1
-- **Elixir of undying**: 4.16% chance, amount 1
+- Redstone: 25% chance, 0-2 amount
+- Sugar: 25% chance, 0-2 amount
+- Fermented spider eye: 25% chance, 0-2 amount
+- Blaze powder: 25% chance, 0-2 amount
+- Potion of Fire resistance: 12.5% chance, amount 1
+- Potion of Regeneration: 12.5% chance, amount 1
+- Potion of Healing II: 12.5% chance, amount 1
+- Splash potion of Slowness: 12.5% chance, amount 1
+- Splash potion of Weakness: 12.5% chance, amount 1
+- Splash potion of Harming II: 12.5% chance, amount 1
+- Splash potion of Poison: 12.5% chance, amount 1
+- Miner's ale: 4.16% chance, amount 1
+- Suspicious brew: 4.16% chance, amount 1
+- Elixir of undying: 4.16% chance, amount 1

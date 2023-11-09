@@ -1,18 +1,16 @@
-﻿## Pipeline
+﻿# Pipeline
+![Image Placeholder](https://static.miraheze.org/stardustlabswiki/b/b4/Pipeline.png)
 
-### Pipeline Render
-![Image Placeholder](https://static.miraheze.org/stardustlabswiki/d/d6/Quartz_kitchen.png)
-
-**Description:**
+## Description:
 The Pipelines are abandoned, randomly generated structures, filled with Sentries, still defending the place. The purpose and makers of those structures is still unknown. 
 
-**Spawn Conditions:**
-Structure generates in the [Basalt Deltas](basaltdeltas), [Infernal Dunes](infernaldunes) and [Toxic Heap](toxicheap)
+## Spawn Conditions:
+Structure generates in the Basalt Deltas, [Infernal Dunes](https://officiallysp.net/pokeywiki/Nether_Biomes/infernaldunes.html) and [Toxic Heap](https://officiallysp.net/pokeywiki/Nether_Biomes/toxicheap.html)
 
-**Mobs:**
+## Mobs:
 - [Prime Sentry](primesentry)
-- [Pipeline Sentry](pipelinesentry)
+- [Pipeline Sentry](https://officiallysp.net/pokeywiki/Nether_Mobs/pipelinesentry)
 - 
-**Loot:**
+## Loot:
 - [Torch of lunacy](torchoflunacy)
 - [Netherite Upgrade](netheriteupgrade)

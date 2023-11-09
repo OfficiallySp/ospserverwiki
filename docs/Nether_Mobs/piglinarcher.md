@@ -1,12 +1,12 @@
 ﻿# Piglin archer
-[img](https://static.miraheze.org/stardustlabswiki/b/b3/Piglin_archer.png)
+![img](https://static.miraheze.org/stardustlabswiki/b/b3/Piglin_archer.png)
 ## Base mob
-- **Health points**: 50 (25 hearts)
-- **Spawn**: [Forbidden castle](https://officiallysp.net/pokeywiki/Nether_Structures/forbiddencastle.html).
-- **Behavior**: Hostile
-- **Attack strength**:
-  - **Armed**: 7 - 11 (5.5 times)
-  - **Unarmed**:
+- Health points: 50 (25 hearts)
+- Spawn: [Forbidden castle](https://officiallysp.net/pokeywiki/Nether_Structures/forbiddencastle.html).
+- Behavior: Hostile
+- Attack strength:
+  - Armed: 7 - 11 (5.5 times)
+  - Unarmed:
     - Easy: 4.5 (2.25 times)
     - Normal: 7 (3.5 times)
     - Hard: 10.5 (5.25 times)

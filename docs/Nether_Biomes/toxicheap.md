@@ -4,7 +4,7 @@
 ![Image Placeholder](https://static.miraheze.org/stardustlabswiki/f/fd/2022-03-04_23.13.34.png)
 
 **Description:**
-The Toxic heap is a polluted Nether biome where the terrain turned green, and yellow near lava. It is believed that this was caused by the Nether reactor that can be found here...
+The Toxic heap is a polluted Nether biome where the terrain turned green, and yellow near lava. It is believed that this was caused by the [Nether reactor](https://officiallysp.net/pokeywiki/Nether_Structures/netherreactor.html) that can be found here...
 
 **Linked Structures:**
 - [Nether Reactor](https://officiallysp.net/pokeywiki/Nether_Structures/netherreactor.html)
@@ -13,5 +13,5 @@ The Toxic heap is a polluted Nether biome where the terrain turned green, and ye
 
 **Mobs:**
 - Phantom
-- [Toxic Slime](toxicslime)
+- [Toxic Slime](https://officiallysp.net/pokeywiki/Nether_Mobs/toxicslime)
 - Strider

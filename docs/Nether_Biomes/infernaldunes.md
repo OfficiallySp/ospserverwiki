@@ -11,6 +11,6 @@ The Infernal dunes are blazing hot biomes with red sand and sandstone all around
 - Nether Fortress
 
 **Mobs:**
-- [Desert Blaze](desertblaze)
+- [Desert Blaze](https://officiallysp.net/pokeywiki/Nether_Mobs/desertblaze)
 - Magma cube
 - Strider
