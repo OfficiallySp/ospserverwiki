@@ -8,12 +8,12 @@ The Ruined lab is a circle-shaped structure with a glass dome roof inhabited by 
 
 ## Spawn Conditions:
 
-Structure generates in the [Withered Forest](https://officiallysp.net/pokeywiki/Nether\_Biomes/witheredforest.html)
+Structure generates in the [Withered Forest](../nether-biomes/witheredforest.md)
 
 ## Mobs:
 
-* [Withered Scientist](https://officiallysp.net/pokeywiki/Nether\_Mobs/witheredscientist.html)
+* [Withered Scientist](../nether-mobs/witheredscientist.md)
 
 ## Loot:
 
-* [Piglin slayer](../../docs/Nether\_Structures/piglinslayer/)
+* Piglin slayer

@@ -4,9 +4,9 @@
 
 Description: The Quartz kitchen is a restaurant run by Torte and his crew of Skeleton brothers. It has a kitchen and dining area, a garden and some storage rooms. Surely a restaurant in such a place holds some secrets...
 
-Spawn Conditions: Structure generates in the [Quartz Flats](https://officiallysp.net/pokeywiki/Nether\_Biomes/quartzflats.html)
+Spawn Conditions: Structure generates in the [Quartz Flats](../nether-biomes/quartzflats.md)
 
 Mobs:
 
-* [Skeleton Brother](../../docs/Nether\_Structures/skeletonbrother/)
-* [Torte](../../docs/Nether\_Structures/torte/)
+* [Skeleton Brother](../nether-mobs/skeletonbrother.md)
+* Torte

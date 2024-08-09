@@ -8,29 +8,29 @@ The Forbidden castle is an ominous, randomly generated structure, considered to 
 
 ## Spawn Conditions:
 
-Structure generates in the [Ash Barrens](https://officiallysp.net/pokeywiki/Nether\_Biomes/ashbarrens.html)
+Structure generates in the [Ash Barrens](../nether-biomes/ashbarrens.md)
 
 ## Mobs:
 
-* [Piglin scout](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinscout.html)
-* [Piglin alchemist](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinalchemist.html)
-* [Piglin paratrooper](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinparatrooper.html)
-* [Piglin pyromancer](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinpyromancer.html)
-* [Piglin knight](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinknight.html)
-* [Piglin archer](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinarcher.html)
-* [Piglin blacksmith](https://officiallysp.net/pokeywiki/Nether\_Mobs/piglinarcher.html)
-* [Pipeline Sentry](../../docs/Nether\_Structures/pigsentry/)
+* [Piglin scout](../nether-mobs/piglinscout.md)
+* [Piglin alchemist](../nether-mobs/piglinalchemist.md)
+* [Piglin paratrooper](../nether-mobs/piglinparatrooper.md)
+* [Piglin pyromancer](../nether-mobs/piglinpyromancer.md)
+* [Piglin knight](../nether-mobs/piglinknight.md)
+* [Piglin archer](../nether-mobs/piglinarcher.md)
+* [Piglin blacksmith](../nether-mobs/piglinblacksmith.md)
+* [Pipeline Sentry](../nether-mobs/pipelinesentry.md)
 
 ## Loot:
 
-* [Blazing hatchet](../../docs/Nether\_Structures/blazehatchet/)
-* [Chilling blade](../../docs/Nether\_Structures/chillblade/)
-* [Greatsword of sacrifice](../../docs/Nether\_Structures/greatsword/)
-* [Multiplex crossbow](../../docs/Nether\_Structures/multiplex/)
-* [Scarlet dagger](../../docs/Nether\_Structures/scarlet/)
-* [Sentry's wrath](../../docs/Nether\_Structures/sentry/)
-* [Voltaic trident](../../docs/Nether\_Structures/voltaic/)
-* [Withersbane](../../docs/Nether\_Structures/withersbane/)
-* [Unstable powder](../../docs/Nether\_Structures/unstablepowder/)
-* [Netherite Upgrade](../../docs/Nether\_Structures/netheriteup/)
-* [Snout armor trim](../../docs/Nether\_Structures/snouttrim/)
+* Blazing hatchet
+* Chilling blade
+* Greatsword of sacrifice
+* Multiplex crossbow
+* Scarlet dagger
+* Sentry's wrath
+* Voltaic trident
+* Withersbane
+* Unstable powder
+* Netherite Upgrade
+* Snout armor trim

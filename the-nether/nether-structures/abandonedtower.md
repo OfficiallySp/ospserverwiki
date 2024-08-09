@@ -8,9 +8,9 @@ The Abandoned tower is a structure group looking like a village placed around a 
 
 ## Spawn Conditions:
 
-Structure generates in the [Quartz Flats](https://officiallysp.net/pokeywiki/Nether\_Biomes/quartzflats.html)
+Structure generates in the [Quartz Flats](../nether-biomes/quartzflats.md)
 
 ## Mobs:
 
-* [Skeleton](../../docs/Nether\_Structures/skeleton/)
-* [Ghastling](https://officiallysp.net/pokeywiki/Nether\_Mobs/ghastling)
+* Skeleton
+* [Ghastling](../nether-mobs/ghastling.md)

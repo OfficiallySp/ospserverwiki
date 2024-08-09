@@ -8,11 +8,11 @@ The Infernal altar is a mysterious dome-shaped blazing structure with its interi
 
 ## Spawn Conditions:
 
-Structure generates in the [Infernal Dunes](https://officiallysp.net/pokeywiki/Nether\_Biomes/infernaldunes.html)
+Structure generates in the [Infernal Dunes](../nether-biomes/infernaldunes.md)
 
 ## Mobs:
 
-* [Hovering Inferno](../../docs/Nether\_Structures/hoveringinferno/)
+* Hovering Inferno
 
 ## Secret Book
 

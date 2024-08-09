@@ -1,16 +1,18 @@
-﻿## Volcanic Deltas
+# Volcanic Deltas
 
-### Volcanic Deltas Preview
-![Image Placeholder](https://static.miraheze.org/stardustlabswiki/3/3e/Volcanic_deltas.png)
+## Volcanic Deltas Preview
 
-**Description:**
-The Volcanic deltas are variant biomes of the basalt deltas with more lava, Magma, Blackstone, and terrain shaping resembling volcanoes all around. 
+![Image Placeholder](https://static.miraheze.org/stardustlabswiki/3/3e/Volcanic\_deltas.png)
+
+**Description:** The Volcanic deltas are variant biomes of the basalt deltas with more lava, Magma, Blackstone, and terrain shaping resembling volcanoes all around.
 
 **Linked Structures:**
-- [Nether Reactor](https://officiallysp.net/pokeywiki/Nether_Structures/netherreactor.html)
+
+* [Nether Reactor](../nether-structures/netherreactor.md)
 
 **Mobs:**
-- Ghast
-- Magma Cube
-- Blaze
-- Strider
+
+* Ghast
+* Magma Cube
+* Blaze
+* Strider

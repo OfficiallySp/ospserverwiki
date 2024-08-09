@@ -8,12 +8,12 @@ The Nether reactor is a structure before called Power plant shaped like a nuclea
 
 ## Spawn Conditions:
 
-Structure generates in the [Basalt deltas](../../docs/Nether\_Structures/basaltdeltas/), [Toxic Heap](../../docs/Nether\_Structures/toxicheap/) and [Volcanic Deltas](../../docs/Nether\_Structures/volcanicdeltas/)
+Structure generates in the Basalt deltas, [Toxic Heap](../nether-biomes/toxicheap.md) and [Volcanic Deltas](../nether-biomes/volcanicdeltas.md)
 
 ## Mobs:
 
-* [Ghast Sentry](../../docs/Nether\_Structures/ghastsentry/)
+* Ghast Sentry
 
 ## Loot:
 
-* [Radiation Shield](../../docs/Nether\_Structures/radiationshield/)
+* Radiation Shield

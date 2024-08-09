@@ -8,18 +8,18 @@ Spawn Conditions: Structure generates in the [Quartz Flats](https://officiallysp
 
 Mobs:
 
-* [Sanctum cultist](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumcultist)
-* [Sanctum ritualist](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumritualist)
-* [Sanctum inquisitor](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctuminquisitor)
-* [Sanctum illusionist](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumillusionist)
-* [Sanctum apostle](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumapostle)
-* [Sanctum ravager](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumravager)
-* [Sanctum guardian](https://officiallysp.net/pokeywiki/Nether\_Mobs/sanctumguardian)
+* [Sanctum cultist](../nether-mobs/sanctumcultist.md)
+* [Sanctum ritualist](../nether-mobs/sanctumritualist.md)
+* [Sanctum inquisitor](../nether-mobs/sanctuminquisitor.md)
+* [Sanctum illusionist](../nether-mobs/sanctumillusionist.md)
+* [Sanctum apostle](../nether-mobs/sanctumapostle.md)
+* [Sanctum ravager](../nether-mobs/sanctumravager.md)
+* [Sanctum guardian](../nether-mobs/sanctumguardian.md)
 
 Loot:
 
-* [Holy wrath](../../docs/Nether\_Structures/holywrath/)
-* [Daybreaker](../../docs/Nether\_Structures/daybreaker/)
-* [Ragnarok](../../docs/Nether\_Structures/ragnarok/)
-* [Scroll of returning](../../docs/Nether\_Structures/scrollofreturning/)
-* [Netherite Upgrade](../../docs/Nether\_Structures/netheriteupgrade/)
+* Holy wrath
+* Daybreaker
+* Ragnarok
+* Scroll of returning
+* Netherite Upgrade

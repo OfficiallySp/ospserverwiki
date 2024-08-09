@@ -8,15 +8,14 @@ The Pipelines are abandoned, randomly generated structures, filled with Sentries
 
 ## Spawn Conditions:
 
-Structure generates in the Basalt Deltas, [Infernal Dunes](https://officiallysp.net/pokeywiki/Nether\_Biomes/infernaldunes.html) and [Toxic Heap](https://officiallysp.net/pokeywiki/Nether\_Biomes/toxicheap.html)
+Structure generates in the Basalt Deltas, [Infernal Dunes](../nether-biomes/infernaldunes.md) and [Toxic Heap](../nether-biomes/toxicheap.md)
 
 ## Mobs:
 
-* [Prime Sentry](../../docs/Nether\_Structures/primesentry/)
-* [Pipeline Sentry](https://officiallysp.net/pokeywiki/Nether\_Mobs/pipelinesentry)
-*
+* Prime Sentry
+* [Pipeline Sentry](../nether-mobs/pipelinesentry.md)
 
 ## Loot:
 
-* [Torch of lunacy](../../docs/Nether\_Structures/torchoflunacy/)
-* [Netherite Upgrade](../../docs/Nether\_Structures/netheriteupgrade/)
+* Torch of lunacy
+* Netherite Upgrade
